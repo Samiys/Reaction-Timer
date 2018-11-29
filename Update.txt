@@ -1,0 +1,4 @@
+Reaction Timer
+
+Adding feature to display the best time.
+And to show the last 5 timing's.
